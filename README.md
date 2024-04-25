@@ -20,4 +20,4 @@ The HR Analytics Power BI Project aims to provide actionable insights into emplo
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload]()
+![Dashboard_upload](report_snapshot.png)
